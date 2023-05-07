@@ -1,0 +1,4 @@
+com\example\devoxx\WebController.class
+com\example\devoxx\CustomeFilter.class
+com\example\devoxx\DevoxxApplication.class
+com\example\devoxx\SecurityConfig.class
